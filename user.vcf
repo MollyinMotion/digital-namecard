@@ -5,10 +5,10 @@ N:O'Neill;Molly;;;
 FN: Molly O'Neill 
 ORG:Molly in Motion LLC;
 TITLE:Founder Molly in Motion LLC
-EMAIL;type=INTERNET;type=WORK;type=pref:Molly@MollyinMotion.com
-TEL;type=WORK;type=VOICE:(215) 840-4060‬
-item1.ADR;type=SOCIAL;type=pref:;;Follow @molly.in.motion
+EMAIL;type=INTERNET;type=Email;type=pref:Molly@MollyinMotion.com
+TEL;type=cell;type=VOICE:(215) 840-4060‬
+item1.ADR;type=Social;type=pref:;;Follow @molly.in.motion
 item1.X-ABADR:sg
 item2.URL;type=pref:www.mollyinmotion.com/
-item2.X-ABLabel:_$!<WEB>!$_
+item2.X-ABLabel:WEB
 END:VCARD
